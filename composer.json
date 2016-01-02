@@ -1,0 +1,12 @@
+{
+  "autoload": {
+	"files":[
+            "app/Libraries/Constants/environment.php",
+            "app/Libraries/Constants/constants.php",
+            "app/Libraries/helpers.php"
+        ],
+    "psr-4": {
+      "App\\":"app/"
+    }
+  }
+}

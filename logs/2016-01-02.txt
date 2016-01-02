@@ -1,0 +1,11 @@
+Time : 11:02:11
+SQLSTATE[HY000] [1044] Accès refusé pour l'utilisateur: ''@'@localhost'. Base 'testdb'
+
+Time : 11:01:45
+SQLSTATE[HY000] [1044] Accès refusé pour l'utilisateur: ''@'@localhost'. Base 'testdb'
+
+Time : 11:00:55
+SQLSTATE[HY000] [1044] Accès refusé pour l'utilisateur: ''@'@localhost'. Base 'testdb'
+
+Time : 11:00:02
+SQLSTATE[HY000] [1044] Accès refusé pour l'utilisateur: ''@'@localhost'. Base 'testdb'

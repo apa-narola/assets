@@ -1,0 +1,7 @@
+<?php
+define("DS",DIRECTORY_SEPARATOR);
+define("DOCUMENT_ROOT",$_SERVER["DOCUMENT_ROOT"]);
+define("SITE_FOLDER","assets");
+define("SITE_PATH",DOCUMENT_ROOT.DS.SITE_FOLDER);
+define("LOG_PATH",SITE_PATH.DS."logs".DS);
+?>
