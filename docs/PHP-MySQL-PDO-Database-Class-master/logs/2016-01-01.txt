@@ -1,0 +1,2 @@
+Time : 13:35:39
+SQLSTATE[HY000] [1044] Accès refusé pour l'utilisateur: ''@'@localhost'. Base 'testdb'
